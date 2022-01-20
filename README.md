@@ -1,0 +1,2 @@
+# forecasting-final-exam
+Comprehensive review with questions and answers on all topics learned including a variety of forecasting methods and examples.  Case scenarios to answer questions on topics such as confidence intervals, forecast adjustments, classical decomposition, exponential smoothing, Croston’s method, holt’s Exponential Smoothing, MSE,  and , seasonal adjusted series, Damping Coefficient, difference Autocorrelation, MAPE, take-off points etc.
